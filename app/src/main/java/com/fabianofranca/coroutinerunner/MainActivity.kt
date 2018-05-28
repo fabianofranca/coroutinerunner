@@ -1,4 +1,4 @@
-package com.fabianofranca.coroutinetest
+package com.fabianofranca.coroutinerunner
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

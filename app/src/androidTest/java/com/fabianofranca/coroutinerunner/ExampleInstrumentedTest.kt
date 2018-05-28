@@ -1,4 +1,4 @@
-package com.fabianofranca.coroutinetest
+package com.fabianofranca.coroutinerunner
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.fabianofranca.coroutinetest
+package com.fabianofranca.coroutinerunner
 
 import kotlinx.coroutines.experimental.Deferred
 import kotlinx.coroutines.experimental.async
